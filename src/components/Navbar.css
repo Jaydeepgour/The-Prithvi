@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: #0000000c;
+  color: #ffffff;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* .earth-logo{
+  position: absolute;
+  left: 10px;
+  height: 10%;
+}
+img{
+  position: absolute;
+  left: 22px;
+  height: 20%;
+
+} */
+.navbar-logo {
+  font-size: 24px;
+  text-decoration: none;
+  color: #030303;
+}

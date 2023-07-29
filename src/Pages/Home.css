@@ -1,0 +1,17 @@
+.Country-card-wrapper{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.App{
+    display: flex;
+    /* position: relative; */
+    align-items:center ;
+    width: 100%;
+}
+
+.fllter-wrapper{
+    position: absolute;
+
+}
